@@ -1,6 +1,6 @@
-#ifndef _GABBO_BASIC_AUTO_H
-#define _GABBO_BASIC_AUTO_H
+#ifndef _ACME_BASIC_AUTO_H
+#define _ACME_BASIC_AUTO_H
 
-#include <flavors/gabbo-basic.h>
+#include <flavors/acme-basic.h>
 
-#endif  // _GABBO_BASIC_AUTO_H
+#endif  // _ACME_BASIC_AUTO_H
